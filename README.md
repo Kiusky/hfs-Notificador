@@ -15,11 +15,11 @@ Mostra notificações sempre que um usuário efetuar login no HFS.
 🌐 Notificar conexão por IP
 Configure para ser avisado quando ocorrer uma nova conexão:
 
-Nunca notificar
+* Nunca notificar
 
-A cada 30 minutos
+* A cada 30 minutos
 
-A cada 1 hora
+* A cada 1 hora
 
  
 

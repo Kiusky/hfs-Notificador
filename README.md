@@ -37,5 +37,5 @@ Exibe um log em tempo real com as notificações (ex.: uploads, conexões, login
 
 ## Instalação
 1. No HFS, vá em **Menu → Plugins → Install from Repo**
-2. Digite:
+2. Digite:Notficador
 3. Ative o plugin no painel do HFS.

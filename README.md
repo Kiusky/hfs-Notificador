@@ -2,6 +2,7 @@
 
 Este plugin adiciona ao HFS a capacidade de enviar notificações sobre atividades importantes no servidor.
 
+ 
 
 ⚙️ Funcionalidades:
 
@@ -20,7 +21,7 @@ A cada 30 minutos
 
 A cada 1 hora
 
-
+ 
 
 🖥️ Interface:
 

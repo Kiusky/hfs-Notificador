@@ -2,7 +2,7 @@ exports.repo = "Kiusky/hfs-Notificador"
 exports.version = 0.5
 exports.description = "Receba notificações do HFS"
 exports.apiRequired = 12.3
-exports.preview = ["https://github.com/Kiusky"]
+exports.preview = ["https://github.com/user-attachments/assets/9106806d-db40-4c95-b636-f86b4c73c13b"]
 
 exports.config = {
     uploads: { 

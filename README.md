@@ -31,9 +31,11 @@ Exibe um log em tempo real com as notificações (ex.: uploads, conexões, login
 
 👉 Assim, o administrador do HFS consegue acompanhar melhor a atividade do servidor sem precisar ficar verificando os logs manualmente.
 
-<img width="984" height="343" alt="image" src="https://github.com/user-attachments/assets/9106806d-db40-4c95-b636-f86b4c73c13b" />
+<img width="984" height="343" alt="image" src="https://github.com/user-attachments/assets/9106806d-db40-4c95-b636-f86b4c73c13b" draggable="false">
 
-<img width="983" height="343" alt="image" src="https://github.com/user-attachments/assets/a84ccd7d-1179-4f5f-8217-8edf327d123e" />
+<img width="983" height="343" alt="image" src="https://github.com/user-attachments/assets/a84ccd7d-1179-4f5f-8217-8edf327d123e" draggable="false">
+
+<img width="394" height="245" alt="456464645" src="https://github.com/user-attachments/assets/03a79254-7aa9-451c-a76b-9fef93b2e3b8" draggable="false">
 
 ## Instalação
 1. No HFS, vá em **Menu → Plugins → Install from Repo**

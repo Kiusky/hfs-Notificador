@@ -32,13 +32,13 @@ Exibe um log em tempo real com as notificações (ex.: uploads, conexões, login
 👉 Assim, o administrador do HFS consegue acompanhar melhor a atividade do servidor sem precisar ficar verificando os logs manualmente.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9106806d-db40-4c95-b636-f86b4c73c13b" width="400" />
+  <img src="https://github.com/user-attachments/assets/9106806d-db40-4c95-b636-f86b4c73c13b" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a84ccd7d-1179-4f5f-8217-8edf327d123e" width="400" />
+  <img src="https://github.com/user-attachments/assets/a84ccd7d-1179-4f5f-8217-8edf327d123e" />
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/03a79254-7aa9-451c-a76b-9fef93b2e3b8" width="200" />
+  <img src="https://github.com/user-attachments/assets/03a79254-7aa9-451c-a76b-9fef93b2e3b8" />
 </p>
 
 

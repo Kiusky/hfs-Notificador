@@ -1,4 +1,4 @@
-# 📌 Plugin: Notificador para HFS / 🇧🇷​
+# 📌 Plugin: Notificador para HFS - 🇧🇷​
 
 Este plugin adiciona ao HFS a capacidade de enviar notificações sobre atividades importantes no servidor.
 
